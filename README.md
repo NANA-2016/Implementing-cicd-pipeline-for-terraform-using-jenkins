@@ -234,15 +234,15 @@ Check the container status with the the command "sudo docker ps -a"
 
  Make all the other necessary changes on the new branch and let it build on jenkins and see the result where you can choose to eithe accept or abort to be effected by the script on AWS console  ie EKS cluster configuration .
 
-   ##### The changes to be made on the branch include  :
+   ##### 1 .The changes to be made on the branch include  :
 
-  #####  printing echo messages before and after every execution
+  #####  2 .printing echo messages before and after every execution
   
-  ##### In terraform apply stage correct sh 'terraform aply-out==tfplan to sh @terraform apply tfplan'
+  ##### 3. In terraform apply stage correct sh 'terraform aply-out==tfplan to sh @terraform apply tfplan'
 
- #####  Intoduce terraform lint(which comes before the terraform apply stage  and terraform validate
+ #####  4. Intoduce terraform lint(which comes before the terraform apply stage  and terraform validate
 
-  ##### Clean up stage 
+  ##### 5. Clean up stage 
   
   ##### impelmenting error handling stage .
 
