@@ -77,6 +77,9 @@ docker exec -it  <container id or container name gotten after you run "docker ps
 
  This i s where  you will run "cat /var/jenkins_home/secrets/initialAdminPassword" to get jenkins password
 
+ ![Screenshot 2024-03-23 221211](https://github.com/NANA-2016/Implementing-cicd-pipeline-for-terraform-using-jenkins/assets/141503408/fac94745-cfcb-4efc-ae78-82c5ed87df33)
+
+
  ![Screenshot 2024-04-04 195631](https://github.com/NANA-2016/Implementing-cicd-pipeline-for-terraform-using-jenkins/assets/141503408/a5147989-7902-4a1e-9bb7-d4999c651df8)
 
  ![Screenshot 2024-04-04 195524](https://github.com/NANA-2016/Implementing-cicd-pipeline-for-terraform-using-jenkins/assets/141503408/c63d53bc-0984-4aed-80fb-1726610765c3)
@@ -86,10 +89,6 @@ docker exec -it  <container id or container name gotten after you run "docker ps
 
  
 ![image](https://github.com/NANA-2016/Implementing-cicd-pipeline-for-terraform-using-jenkins/assets/141503408/1ee56f98-860f-4600-9f55-f8a357ce99e5)
-
-![Screenshot 2024-03-23 221211](https://github.com/NANA-2016/Implementing-cicd-pipeline-for-terraform-using-jenkins/assets/141503408/fac94745-cfcb-4efc-ae78-82c5ed87df33)
-
-
 
 
 ## Creating a git repository.
