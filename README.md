@@ -167,6 +167,7 @@ Check the container status with the the command "sudo docker ps -a"
  Configure the forked repository perovider.tf file with the "S3 BUCKET" created on the AWS account.
  
  ## Jenkins file code 
+ 
 
  pipeline {
     agent any
@@ -246,8 +247,8 @@ Check the container status with the the command "sudo docker ps -a"
   
   ##### 6. impelmenting error handling stage .
 
-  
-pipeline {
+
+  pipeline {
     agent any
  
     environment {
