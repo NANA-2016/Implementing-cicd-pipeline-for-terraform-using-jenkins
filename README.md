@@ -244,7 +244,7 @@ Check the container status with the the command "sudo docker ps -a"
 
   ##### 5. Clean up stage 
   
-  ##### impelmenting error handling stage .
+  ##### 6. impelmenting error handling stage .
 
   
 pipeline {
