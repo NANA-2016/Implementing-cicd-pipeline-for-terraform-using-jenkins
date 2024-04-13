@@ -219,6 +219,11 @@ Check the container status with the the command "sudo docker ps -a"
  
 ![image](https://github.com/NANA-2016/Implementing-cicd-pipeline-for-terraform-using-jenkins/assets/141503408/41e57862-e495-4f2c-9b76-d5c45806f128)
 
+##### Photo attached below shows the console output  for main Branch
+
+![image](https://github.com/NANA-2016/Implementing-cicd-pipeline-for-terraform-using-jenkins/assets/141503408/eb99c048-5dd4-4cb4-887b-c6c828f35f09)
+
+
 
  After making the changes on the code on VS CODE Platform, run the build in Jenkins and see the console output where you can chose to either continue otr about the AKS installation.
 
@@ -338,9 +343,22 @@ Check the container status with the the command "sudo docker ps -a"
         }
     }
   }
- 
 
- 
+
+##### Photo attached below shows the console output  for Faith Branch 
+
+![image](https://github.com/NANA-2016/Implementing-cicd-pipeline-for-terraform-using-jenkins/assets/141503408/c217075d-9874-4b6d-b9a9-ef2258322ffc)
+
+
+###  Main and faith branches BUILDS.
+
+
+![image](https://github.com/NANA-2016/Implementing-cicd-pipeline-for-terraform-using-jenkins/assets/141503408/9db1c30c-ed8c-4a59-a82b-681152d9d69b)
+
+
+
+ ![image](https://github.com/NANA-2016/Implementing-cicd-pipeline-for-terraform-using-jenkins/assets/141503408/8644fa32-70fb-440e-80be-c391e97c6092)
+
 
   
 
